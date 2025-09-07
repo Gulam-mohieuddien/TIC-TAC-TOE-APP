@@ -24,18 +24,3 @@ This project was built to enhance my understanding of basic game logic, input ha
 - Ensures **fair play** and blocks post-game interaction until reset.
 
 ---
-
-## 📂 Project Structure
-
-TIC-TAC-TOE-APP/
-│
-├── app/ # Main Android app module
-│ ├── java/com/example/... # Java source code (MainActivity, logic)
-│ ├── res/ # XML layouts, drawable assets
-│ └── AndroidManifest.xml
-│
-├── gradle/ # Gradle build files
-├── .idea/ # Android Studio config
-├── build.gradle # App-level Gradle config
-├── settings.gradle # Project-level Gradle config
-└── README.md # Project documentation

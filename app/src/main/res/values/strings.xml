@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">TIC TAC TOE</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- Game related strings -->
+    <string name="game_title" translatable="false">TIC TAC TOE</string>
+    <string name="game_instructions" translatable="false">Select user1 for X and user2 for O</string>
+    <string name="hint_user1" translatable="false">Enter your name user1</string>
+    <string name="hint_user2" translatable="false">Enter your name user2</string>
+    <string name="reset_button" translatable="false">Reset</string>
+    <string name="winner_placeholder">Winner will be shown here</string>
+    <string name="winner_text">Winner is: %1$s</string>
+    <string name="draw_text">Draw</string>
+    <string name="symbol_x" translatable="false">X</string>
+    <string name="symbol_o" translatable="false">O</string>
+</resources>
